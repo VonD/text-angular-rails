@@ -9,6 +9,7 @@ In your Gemfile:
     gem 'text-angular-rails'
 
 In your application.js manifest:
+
     //= require rangy-core
     //= require rangy-cssclassapplier
     //= require rangy-selectionsaverestore
